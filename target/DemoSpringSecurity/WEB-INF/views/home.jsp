@@ -4,6 +4,6 @@
 <title>Home</title>
 </head>
 <body>
-<h2>Welcome to javatpoint spring tutorial!</h2>
+<h2>HELLO HOME</h2>
 </body>
 </html>
